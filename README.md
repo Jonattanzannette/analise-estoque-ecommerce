@@ -1,4 +1,4 @@
-# Análise de Estooque – E-commerce (DummyJSON)
+# Análise de Estoque – E-commerce (DummyJSON)
 
 Este projeto tem como objetivo simular um fluxo de ingestão e análise de dados de um e-commerce,
 utilizando dados públicos da API DummyJSON.
